@@ -14,7 +14,7 @@
     "babel-plugin-syntax-async-functions": "^6.5.0",
     "babel-preset-env": "^1.5.2",
     "browser-sync": "^2.18.2",
-    "browserify": "^14.3.0",
+    "browserify": "^16.3.0",
     "del": "^3.0.0",
     "docdash": "^0.4.0",
     "gulp": "^3.9.1",
