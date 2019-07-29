@@ -31,7 +31,7 @@
     "qunit-assert-close": "^2.1.2",
     "qunitjs": "^2.3.2",
     "vinyl-buffer": "^1.0.0",
-    "vinyl-source-stream": "^1.1.0"
+    "vinyl-source-stream": "^2.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
