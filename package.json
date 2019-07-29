@@ -27,7 +27,7 @@
     "gulp-uglify": "^1.5.2",
     "gulp-util": "^3.0.7",
     "jsdoc": "^3.5.0",
-    "merge-stream": "^1.0.1",
+    "merge-stream": "^2.0.0",
     "qunit-assert-close": "^2.1.2",
     "qunitjs": "^2.3.2",
     "vinyl-buffer": "^1.0.0",
